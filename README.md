@@ -3,7 +3,7 @@
 ### Interface Software Developer at [Timeless Medical Systems][timeless] who likes complex algorithms, animations and dynamic user experiences
 
 👨🏼‍💻 building [Gatsby Blog][website]  
-🧠 learning [AWS][AWS] and [Docker][docker]
+🧠 learning [AWS][AWS] and [Docker][docker]   
 💜 loving [react][react], [gatsby][gatsby], [django][django], [postman][postman] and [Laravel][laravel]
 
 🏡 [website][website] **|** 🐦 [twitter][twitter] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin]
