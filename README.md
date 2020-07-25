@@ -6,12 +6,9 @@
 🧠 learning [AWS][AWS] and [Docker][docker]
 💜 loving [react][react], [gatsby][gatsby], [django][django], [postman][postman] and [Laravel][laravel]
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|**   
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 [website][website] **|** 🐦 [twitter][twitter] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin]
 
-[banner]: https://github.com/pujanb96/pujanb96/blob/master/banner.jpg?raw=true
+[banner]: https://github.com/pujanb96/pujanb96/blob/master/banner.png?raw=true
 [timeless]: http://www.timelessmedical.com/
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
