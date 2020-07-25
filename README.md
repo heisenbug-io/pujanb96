@@ -1,18 +1,26 @@
-### Hi there 👋
+[![bg][banner]][website]
 
-<!--
-**pujanb96/pujanb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interface Software Developer at [Timeless Medical Systems][timeless] who likes complex algorithms, animations and dynamic user experiences
 
-Here are some ideas to get you started:
+👨🏼‍💻 building [Gatsby Blog][website]  
+🧠 learning [AWS][AWS] and [Docker][docker]
+💜 loving [react][react], [gatsby][gatsby], [django][django], [postman][postman] and [Laravel][laravel]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|**   
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-<img src='https://github.com/pujanb96/pujanb96/blob/master/banner.jpg?raw=true'>
+[banner]: https://github.com/pujanb96/pujanb96/blob/master/banner.jpg?raw=true
+[timeless]: http://www.timelessmedical.com/
+[react]: http://reactjs.org
+[gatsby]: https://gatsbyjs.org
+[AWS]: https://aws.amazon.com/
+[laravel]: https://laravel.com/
+[django]: https://www.djangoproject.com/
+[postman]: https://www.postman.com/
+[docker]: http://docker.com/
+[website]: https://heisenbug.cf/
+[twitter]: https://twitter.com/_heisenbug_
+[instagram]: https://www.instagram.com/theheisenbug/
+[linkedin]: https://www.linkedin.com/in/pujan-bhuva-8b4ab5111/
