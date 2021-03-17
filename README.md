@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Interface Software Developer at [Timeless Medical Systems][timeless] who likes complex algorithms, animations and dynamic user experiences
+### DevOps at [Timeless Medical Systems][timeless] who likes complex algorithms, animations and dynamic user experiences
 
 👨🏼‍💻 building [Gatsby Blog][website]  
 🧠 learning [AWS][AWS] and [Docker][docker]   
